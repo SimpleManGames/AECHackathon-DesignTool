@@ -1,0 +1,1 @@
+﻿public enum DEBUG_LEVEL { None, Basic, Advanced }
